@@ -17,7 +17,11 @@
     display: inline-block;
     width: 15%;
 }
+.Djuka {
+    margin-top:315px;
+    position:absolute;
 
+}
 .meni a:hover{
     background-color: white;
     color: blue;
